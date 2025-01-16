@@ -1,0 +1,6 @@
+rich
+aiofiles
+tqdm
+click
+pythreads
+openai
